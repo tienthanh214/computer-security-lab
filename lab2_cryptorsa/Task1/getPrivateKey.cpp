@@ -36,5 +36,6 @@ int main() {
     BN_hex2bn(&e, "0D88C3");
 
     printBN("Private key = ", getPrivateKey(p, q, e));
+    // Private key =  3587A24598E5F2A21DB007D89D18CC50ABA5075BA19A33890FE7C28A9B496AEB
     return 0;
 }
