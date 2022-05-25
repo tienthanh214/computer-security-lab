@@ -1,0 +1,106 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4099 (0x1003)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=VN, ST=Ho Chi Minh, L=quan 5, O=hcmus, OU=thanh-tu, CN=tt2022.com/emailAddress=tt2022@test.com
+        Validity
+            Not Before: May 25 15:33:51 2022 GMT
+            Not After : May 20 15:33:51 2023 GMT
+        Subject: C=VN, ST=Ho Chi Minh, L=Quan 1, O=tt, OU=thanh-tu-web-server, CN=tt2022/emailAddress=tt2022@test.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:a5:6d:91:8e:5f:e3:68:d2:61:90:11:5b:81:c8:
+                    85:4f:38:a8:41:59:02:20:99:76:05:dd:b6:75:87:
+                    d0:62:31:d7:fb:32:ed:90:1f:ab:ab:45:27:a8:35:
+                    e4:8d:b7:4a:77:76:ac:da:10:8b:26:52:43:72:b5:
+                    87:e6:62:84:de:8f:fe:31:3c:81:f3:4a:f8:7e:bc:
+                    ab:9a:0b:57:0d:c4:c5:f7:09:2b:7c:a5:c0:03:ef:
+                    2f:16:e0:c3:b7:7b:18:48:5c:44:0e:e0:bf:ae:a1:
+                    f4:c8:f3:43:39:0a:75:a0:a5:41:64:ae:58:e5:21:
+                    37:ec:57:e8:47:74:ee:45:b9:29:0e:81:5e:54:80:
+                    3e:b3:94:85:9b:e6:c5:11:44:b1:47:a1:01:8f:cc:
+                    18:ac:5f:86:60:f9:fa:91:7c:c8:65:3c:05:bb:58:
+                    6d:32:98:9b:64:97:dc:59:02:ce:b5:6d:cf:73:d3:
+                    03:7a:ed:42:b0:dd:f5:c3:ef:04:8a:b7:c4:20:7b:
+                    7d:7f:ef:77:db:84:1f:a3:4f:af:6c:35:fd:3a:ba:
+                    13:bd:93:3d:09:c4:33:4a:be:50:d5:55:d3:0e:c7:
+                    2a:0b:c6:76:75:52:1e:15:88:d6:d7:c4:71:02:3e:
+                    e6:7b:7d:57:25:5e:2c:80:e2:29:cc:05:59:dc:29:
+                    e1:81
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                B7:C5:2C:AF:88:6A:BE:A4:8B:CE:5C:CB:65:58:8F:45:A2:C6:DB:03
+            X509v3 Authority Key Identifier: 
+                keyid:37:E1:74:A9:11:93:05:1C:F5:F8:BF:4F:C7:C8:33:F0:E6:41:7F:5E
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.tt2022.com, DNS:www.tt2022A.com, DNS:www.tt2022B.com
+    Signature Algorithm: sha256WithRSAEncryption
+         06:db:34:49:3b:a4:fc:06:31:a6:2d:1d:f7:cd:3e:75:d3:94:
+         8d:74:ea:29:57:f7:c1:8e:d6:9c:49:37:8c:34:fd:c6:a2:0a:
+         87:42:0a:a6:66:9b:57:70:39:aa:13:38:3a:32:0b:f4:c5:ea:
+         fd:08:3d:d7:2a:0b:55:84:96:22:90:68:f5:54:6e:d7:d1:38:
+         3f:ba:47:b1:33:05:7b:57:02:3b:0e:0f:24:db:30:31:36:01:
+         72:43:0b:4a:03:54:d7:08:40:be:ad:f8:cb:9d:bb:5d:69:60:
+         f9:0f:1b:60:06:01:49:3e:6c:0d:00:b1:4d:54:ea:69:65:38:
+         74:36:54:90:26:8b:78:2e:f7:96:c1:f9:74:df:e0:69:d5:2e:
+         5b:6e:e7:d6:24:4d:01:e3:b7:45:54:12:f0:c2:9d:e6:b3:ea:
+         3e:25:3b:76:98:f4:bd:79:f6:e3:c5:6b:46:7b:8e:9f:03:9f:
+         fc:9f:0b:d3:dc:57:05:e8:7d:f7:83:89:e3:28:54:d5:73:bd:
+         0e:e3:cf:d8:e9:eb:e3:68:63:7e:38:f2:5d:11:2b:5d:a5:7d:
+         69:6b:bb:d6:07:1c:59:bf:73:62:f5:ad:ee:67:79:e5:a5:0c:
+         84:fb:e9:8c:ad:54:a4:b4:ff:e8:b9:16:c1:2f:26:2b:af:7e:
+         8e:67:15:d3:1e:d1:16:4c:d8:7b:15:d3:a8:c2:1e:3f:b1:85:
+         67:25:16:55:f1:c9:8e:72:5f:18:c2:d4:9e:e1:62:1a:76:d1:
+         47:06:76:a7:07:ce:88:8a:a0:be:32:cb:31:be:86:f8:7d:a4:
+         b6:50:9f:99:f3:52:1b:8a:1c:e3:68:ae:76:d3:8c:87:08:89:
+         f1:f3:98:e6:b6:de:0b:c5:bd:3a:eb:72:a6:72:fe:e1:66:a3:
+         ac:7a:bf:da:b4:94:a9:87:bb:1f:d4:31:d0:88:3b:74:b4:31:
+         c6:98:14:f6:e2:c5:85:08:a1:69:40:e1:5f:d7:74:7a:a0:c4:
+         68:5a:34:a0:4b:13:97:ca:ba:85:b2:d4:73:5b:38:be:8f:e5:
+         a9:1b:a7:77:26:91:9e:ac:0c:1b:ee:25:d9:cd:25:db:ca:ae:
+         4d:c4:67:4f:7a:81:67:94:13:88:5c:98:04:f2:8e:7c:75:4e:
+         ef:a5:2e:37:c6:42:3f:8e:79:77:df:1d:7d:56:37:62:48:de:
+         6d:1e:b7:ef:42:c0:c8:03:64:64:5a:5f:6e:73:08:c9:2d:cd:
+         1b:4e:72:7c:7a:af:9e:cd:6c:62:9c:13:18:b6:16:90:90:8c:
+         01:60:8c:b1:35:f6:62:80:4f:52:a6:3f:b0:ca:1f:a1:de:3d:
+         70:92:6b:ae:38:dd:f9:52
+-----BEGIN CERTIFICATE-----
+MIIFVDCCAzygAwIBAgICEAMwDQYJKoZIhvcNAQELBQAwgYwxCzAJBgNVBAYTAlZO
+MRQwEgYDVQQIDAtIbyBDaGkgTWluaDEPMA0GA1UEBwwGcXVhbiA1MQ4wDAYDVQQK
+DAVoY211czERMA8GA1UECwwIdGhhbmgtdHUxEzARBgNVBAMMCnR0MjAyMi5jb20x
+HjAcBgkqhkiG9w0BCQEWD3R0MjAyMkB0ZXN0LmNvbTAeFw0yMjA1MjUxNTMzNTFa
+Fw0yMzA1MjAxNTMzNTFaMIGQMQswCQYDVQQGEwJWTjEUMBIGA1UECAwLSG8gQ2hp
+IE1pbmgxDzANBgNVBAcMBlF1YW4gMTELMAkGA1UECgwCdHQxHDAaBgNVBAsME3Ro
+YW5oLXR1LXdlYi1zZXJ2ZXIxDzANBgNVBAMMBnR0MjAyMjEeMBwGCSqGSIb3DQEJ
+ARYPdHQyMDIyQHRlc3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEApW2Rjl/jaNJhkBFbgciFTzioQVkCIJl2Bd22dYfQYjHX+zLtkB+rq0UnqDXk
+jbdKd3as2hCLJlJDcrWH5mKE3o/+MTyB80r4fryrmgtXDcTF9wkrfKXAA+8vFuDD
+t3sYSFxEDuC/rqH0yPNDOQp1oKVBZK5Y5SE37FfoR3TuRbkpDoFeVIA+s5SFm+bF
+EUSxR6EBj8wYrF+GYPn6kXzIZTwFu1htMpibZJfcWQLOtW3Pc9MDeu1CsN31w+8E
+irfEIHt9f+9324Qfo0+vbDX9OroTvZM9CcQzSr5Q1VXTDscqC8Z2dVIeFYjW18Rx
+Aj7me31XJV4sgOIpzAVZ3CnhgQIDAQABo4G5MIG2MAkGA1UdEwQCMAAwLAYJYIZI
+AYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQW
+BBS3xSyviGq+pIvOXMtlWI9FosbbAzAfBgNVHSMEGDAWgBQ34XSpEZMFHPX4v0/H
+yDPw5kF/XjA7BgNVHREENDAygg53d3cudHQyMDIyLmNvbYIPd3d3LnR0MjAyMkEu
+Y29tgg93d3cudHQyMDIyQi5jb20wDQYJKoZIhvcNAQELBQADggIBAAbbNEk7pPwG
+MaYtHffNPnXTlI106ilX98GO1pxJN4w0/caiCodCCqZmm1dwOaoTODoyC/TF6v0I
+PdcqC1WEliKQaPVUbtfROD+6R7EzBXtXAjsODyTbMDE2AXJDC0oDVNcIQL6t+Mud
+u11pYPkPG2AGAUk+bA0AsU1U6mllOHQ2VJAmi3gu95bB+XTf4GnVLltu59YkTQHj
+t0VUEvDCneaz6j4lO3aY9L159uPFa0Z7jp8Dn/yfC9PcVwXoffeDieMoVNVzvQ7j
+z9jp6+NoY3448l0RK12lfWlru9YHHFm/c2L1re5neeWlDIT76YytVKS0/+i5FsEv
+Jiuvfo5nFdMe0RZM2HsV06jCHj+xhWclFlXxyY5yXxjC1J7hYhp20UcGdqcHzoiK
+oL4yyzG+hvh9pLZQn5nzUhuKHONornbTjIcIifHzmOa23gvFvTrrcqZy/uFmo6x6
+v9q0lKmHux/UMdCIO3S0McaYFPbixYUIoWlA4V/XdHqgxGhaNKBLE5fKuoWy1HNb
+OL6P5akbp3cmkZ6sDBvuJdnNJdvKrk3EZ096gWeUE4hcmATyjnx1Tu+lLjfGQj+O
+eXffHX1WN2JI3m0et+9CwMgDZGRaX25zCMktzRtOcnx6r57NbGKcExi2FpCQjAFg
+jLE19mKAT1KmP7DKH6HePXCSa6443flS
+-----END CERTIFICATE-----
